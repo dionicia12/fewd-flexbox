@@ -1,10 +1,18 @@
-body {
-    .box {
+    .box1 {
         width: 100px;
         height: 100px;
-        border: 1px solid blue; 
+        background: blue; 
+    }
+    .box2 {
+        width: 100px;
+        height: 100px;
+        background: green; 
+    }
+    .box3 {
+        width: 100px;
+        height: 100px;
+        background: orange; 
     }
     .container {
         background: lightgray;
     }
-}
