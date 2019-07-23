@@ -1,0 +1,32 @@
+    .box1 {
+        width: 100px;
+        height: 100px;
+        background: blue; 
+    }
+    .box2 {
+        width: 100px;
+        height: 100px;
+        background: green; 
+    }
+    .box3 {
+        width: 100px;
+        height: 100px;
+        background: orange; 
+    }
+    .container {
+        background: lightgray;
+    }
+    .flex-container {
+        background: purple;
+    }
+    .flex-container {
+        display: flex;
+        background-color: DodgerBlue;
+      }
+      
+      .flex-container > div {
+        background-color: purple;
+        margin: 10px;
+        padding: 20px;
+        font-size: 30px;
+      }
