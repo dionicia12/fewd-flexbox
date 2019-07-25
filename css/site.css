@@ -14,6 +14,6 @@
     .container {
         background: lightgray;
     }
-    body > h1, h2 {
+    h1:first-child, h2:first-child {
         text-align: center;
     }
