@@ -1,16 +1,14 @@
-    .box1 {
+    .box {
         width: 100px;
         height: 100px;
+    }
+    .boxblue {
         background: blue; 
     }
-    .box2 {
-        width: 100px;
-        height: 100px;
+    .boxgreen {
         background: green; 
     }
-    .box3 {
-        width: 100px;
-        height: 100px;
+    .boxorange {
         background: orange; 
     }
     .container {
