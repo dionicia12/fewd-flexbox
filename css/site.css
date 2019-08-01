@@ -1,23 +1,20 @@
-    .box {
-        width: 100px;
-        height: 100px;
-    }
-    .boxblue {
-        background: blue; 
-    }
-    .boxgreen {
-        background: green; 
-    }
-    .boxorange {
-        background: orange; 
-    }
-    .container {
-        background: lightgray;
-    }
-    h1 {
-        text-align: center;
-    }
-
-    h2 {
-        text-align: center;
-    }
+.center-text {
+    text-align: center;    
+}
+.container {
+    height: 100px;
+    background: lightgray;
+    display: flex;
+}
+.blue {
+    background-color: blue;
+    flex: 1;
+}
+.green {
+    background: green;
+    flex: 1;
+}
+.orange {
+    background: orange;
+    flex: 1;
+}
